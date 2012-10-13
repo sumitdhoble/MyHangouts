@@ -3,7 +3,7 @@
 *.tmp
 tmp/*
 config/database.yml
-
+Gemfile.lock
 
 # Compiled source #
 ###################
